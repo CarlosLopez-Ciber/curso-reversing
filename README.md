@@ -4,7 +4,7 @@ Este repositorio es un resumen teórico de lo expuesto en el curso "CursoReversi
 
 Enlace: https://www.youtube.com/playlist?list=PLn__CHOEZR1Ymxi2n4Q9G9I9kBYr6B4Ft
 
-Canal dedicado a la ingenieria inversa por Ricardo Narvaja y Daniel kazimirow (Solid). Seguinos en twitter: @ricnar456 @solid_clt
+Canal dedicado a la ingenieria inversa por Ricardo Narvaja y Daniel kazimirow (Solid). Siguelos en X: @ricnar456 @solid_clt
 
 ---
 
