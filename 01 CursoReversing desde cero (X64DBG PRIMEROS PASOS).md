@@ -52,16 +52,19 @@ call <_security_init_cookie>
 ### Primera columna de la imagen 
 
 **Dirección de memoria**
+
 Una **dirección de memoria** es un identificador (en hexadecimal) único que señala la ubicación de un dato o instrucción dentro de la memoria RAM de un sistema. Es como el número de una casa en una calle, pero en lugar de casas, tenemos datos e instrucciones almacenadas en la memoria.
 
 ### Segunda columna de la imagen
 
 **Opcode**
+
 Un **opcode** (operation code, hexadecimal) es la representación en código máquina de una instrucción de ensamblador. Cada instrucción de un procesador tiene un opcode específico.
 Por ejemplo, en la imagen:
 -  `E8 C4030000` → Es un **opcode** que representa la instrucción `call <_security_init_cookie>`.
 
 ### Tercera columna de la imagen
+
 Representación en ensamblador de los opcodes (desensamblado), donde se pueden ver instrucciones como `call`, `jmp`, `push`, `mov`, etc.
 
 ---
