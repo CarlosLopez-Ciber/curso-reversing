@@ -35,7 +35,7 @@ Un **debugger** (depurador) es una herramienta que permite analizar, modificar y
    - **GDB**: Usado en Linux para debugging de programas en C/C++.  
    - **IDA Pro**: Incluye un debugger y desensamblador avanzado, usado en malware analysis.
 
-![[Pasted image 20250204105850.png]]
+![](Pasted_image_20250204105850.png)
 
 ### 📌 Entry Point
 
